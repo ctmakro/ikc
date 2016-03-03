@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FA;
-	background-color: #9E719D;
+	color: #00000C;
+	background-color: #C702FE;
 }
 
 .html
@@ -48,58 +48,62 @@
 	height: 161px;
 }
 
-#pu94-35
+#pu94-33
 {
 	width: 0.01px;
-	margin-left: -100px;
+	margin-left: 52px;
 	margin-top: 23px;
 }
 
-#u94-35
+#u94-33
 {
 	z-index: 16;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	left: 152px;
 }
 
-#u113
+#pu204
 {
-	z-index: 51;
-	width: 1160px;
-	background-color: transparent;
-	position: relative;
+	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 865px;
+	margin-top: 2px;
+	margin-left: 503px;
 }
 
 #u204
 {
-	z-index: 88;
+	z-index: 86;
 	display: block;
 	vertical-align: top;
+	margin-left: 44px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 2px;
-	left: 699px;
 }
 
 #u216
 {
-	z-index: 90;
+	z-index: 88;
 	width: 414px;
 	background-color: transparent;
+	margin-top: 33px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 218px;
-	left: 655px;
+}
+
+#u113
+{
+	z-index: 49;
+	width: 1160px;
+	background-color: transparent;
+	left: -100px;
+	margin-top: 10px;
+	position: relative;
 }
 
 #u126
 {
-	z-index: 53;
+	z-index: 51;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -109,7 +113,7 @@
 
 #u131
 {
-	z-index: 55;
+	z-index: 53;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -119,7 +123,7 @@
 
 #u136
 {
-	z-index: 57;
+	z-index: 55;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -129,7 +133,7 @@
 
 #u141
 {
-	z-index: 59;
+	z-index: 57;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -139,7 +143,7 @@
 
 #u146
 {
-	z-index: 61;
+	z-index: 59;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -149,7 +153,7 @@
 
 #u168
 {
-	z-index: 63;
+	z-index: 61;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -159,7 +163,7 @@
 
 #u170
 {
-	z-index: 65;
+	z-index: 63;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -169,7 +173,7 @@
 
 #u180
 {
-	z-index: 67;
+	z-index: 65;
 	width: 1160px;
 	background-color: transparent;
 	left: -100px;
@@ -179,7 +183,7 @@
 
 #u186-19
 {
-	z-index: 69;
+	z-index: 67;
 	display: block;
 	vertical-align: top;
 	margin-left: 59px;
@@ -189,7 +193,7 @@
 
 #u223
 {
-	z-index: 92;
+	z-index: 90;
 	width: 1135px;
 	background-color: transparent;
 	left: -88px;

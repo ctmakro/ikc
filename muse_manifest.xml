@@ -1,8 +1,8 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1456734463415">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1456981657099">
   <folder name="css">
-    <file name="site_global.css" crc="3765043536"/>
+    <file name="site_global.css" crc="82313024"/>
     <file name="master_a-master.css" crc="3959530420" ref="index"/>
-    <file name="index.css" crc="4204687773" ref="index"/>
+    <file name="index.css" crc="214369022" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index"/>
@@ -10,8 +10,7 @@
     <file name="jquery.watch.js" crc="4144919381" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u91-4.png" crc="3953316224" ref="index"/>
-    <file name="u94-35.png" crc="3825649201" ref="index"/>
+    <file name="u91-4.png" crc="3834410448" ref="index"/>
     <file name="dsc_3927.jpg" crc="383796856" ref="index"/>
     <file name="nodejs-new-white-pantone-u204.png" crc="391026414" ref="index"/>
     <file name="kclogo_umaru2.png" crc="257230775" ref="index"/>
@@ -23,10 +22,11 @@
     <file name="dsc_3984-crop-u168.jpg" crc="4142365895" ref="index"/>
     <file name="dsc_3986-crop-u170.jpg" crc="4111662601" ref="index"/>
     <file name="dsc_3933-crop-u180.jpg" crc="4262526663" ref="index"/>
-    <file name="u186-19.png" crc="368814864" ref="index"/>
+    <file name="u186-19.png" crc="4277671862" ref="index"/>
     <file name="pasted image 1135x732.jpg" crc="110027019" ref="index"/>
-    <file name="u97-4.png" crc="3953316224" ref="index"/>
-    <file name="u98-4.png" crc="356762669" ref="index"/>
+    <file name="u97-4.png" crc="3834410448" ref="index"/>
+    <file name="u98-4.png" crc="239211904" ref="index"/>
+    <file name="u94-33.png" crc="176459471" ref="index"/>
   </folder>
-  <file name="index.html" crc="92301975" mt="1456734395731" redirect="true"/>
+  <file name="index.html" crc="4128831055" mt="1456981616596" redirect="true"/>
 </manifest>
